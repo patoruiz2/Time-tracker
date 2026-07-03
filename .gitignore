@@ -12,6 +12,17 @@ dist
 dist-ssr
 *.local
 
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
 # Environment
 .env
 .env.*
